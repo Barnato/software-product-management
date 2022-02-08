@@ -1,0 +1,67 @@
+## Software Enginneering Processes
+
+Software processes and agile processes
+
+Lesson 1
+
+Processes and practices
+
+Processes organize software development into phases
+
+Phase - lifecycle of a process
+
+Specification - product idea and requirements
+Design -
+Validation and verification - design of product + implementation
+
+Tasks include writing a piece of code and installing a library
+
+Tasks organize activities
+
+Work product is output of a task
+
+Can be final output but also intermediary product - such as design, requirements, source code, test cases
+
+Practices make processes go more smoothly
+
+Like planning which features go into which release, estimation tasks duration, daily intervals briefing, deliver working prototype to your client every two weeks - ensure your team is delivering what client expects - validation
+
+Process is made of phases
+
+Phase is a group of Activities
+
+Activities are made up of tasks
+
+Example : creating tests is an activity
+An activity is testing a guest login
+
+Lesson 2
+
+Software engineering activities
+
+group of tasks
+Input and output work products
+
+Output - source code
+
+Project management
+Managing risks
+Creating a process
+Allocating resources
+Setting standards
+Performing estimations
+
+Decide standards like coding conventions, testing strategies, def of don
+
+Done for development team could be source code is written, documented, tested and done
+
+Ways to minimize risk
+get historical project records
+Software detailed design
+
+Then do risk plan
+
+Estimation
+Keep project schedule
+Task development rate
+How long it takes - task development rate
