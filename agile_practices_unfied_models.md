@@ -36,3 +36,4 @@ Product is built interatively
 * Transition - transition the product to its users
 
 activites related to design, implementation, requirements can happen at the same time
+
