@@ -34,3 +34,6 @@ Product is built interatively
 * Elaboration phase (prototype)
 * Construction - build the product
 * Transition - transition the product to its users
+
+activites related to design, implementation, requirements can happen at the same time
+
