@@ -6,6 +6,12 @@ Problems
 
 * Software built incorrectly
 
+Example:
+
+[ambigious_req](https://github.com/Barnato/Software-Product-Management)
+
+[ambigious_req](https://github.com/Barnato/Software-Product-Management/to/ambigious_req.png)
+
 * Have conversations with stakeholders
 
 * Categories of problematic words
