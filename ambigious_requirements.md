@@ -8,9 +8,7 @@ Problems
 
 Example:
 
-[ambigious_req](https://github.com/Barnato/Software-Product-Management)
-
-[ambigious_req](https://github.com/Barnato/Software-Product-Management/to/ambigious_req.png)
+[ambigious_req](https://github.com/Barnato/Software-Product-Management/to/assets/ambigious_req.png)
 
 * Have conversations with stakeholders
 
