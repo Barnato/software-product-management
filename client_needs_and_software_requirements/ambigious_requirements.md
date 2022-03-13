@@ -8,7 +8,13 @@ Problems
 
 Example:
 
-[ambigious_req](https://github.com/Barnato/Software-Product-Management/to/assets/ambigious_req.png)
+![ambigious_req](/assets/ambigious_req.png)
+
+three day weather foresact?
+
+or
+
+daily weather for next three days and then stops?
 
 * Have conversations with stakeholders
 
