@@ -1,6 +1,5 @@
 # Agile
 
-
 ## Principles:
 Requirements
 

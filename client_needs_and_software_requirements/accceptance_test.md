@@ -12,6 +12,6 @@ Is a requirement met?
 
 *  Use Visa card and see if card accepted
 
-*  User story has to have all its acceptance criteria met 
+*  User story has to have all its acceptance criteria met
 
 *  Too many acceptance criteria may mean you have an epic and need to break down into more/smaller user stories
