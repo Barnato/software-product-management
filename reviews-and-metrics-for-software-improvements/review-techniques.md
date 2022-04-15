@@ -12,6 +12,6 @@
 
 See software walkthrough tool example in this image
 
-![software-walkthrough-tool](/Users/smith/Documents/GitHub/Software-Product-Management/reviews-and-metrics-for-software-improvements/software-walkthrough-tool.png)
+![software-walkthrough-tool](software-walkthrough-tool.png)
 
   
