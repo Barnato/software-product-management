@@ -4,7 +4,9 @@
 * refine software requirements for client
 * communicate to team of developers
 * adhere to project plans
-* produce high quality product
+* produce high quality !
 * access to *software development community*
 
-![intro-specialization](assets/intro-specialization.png)
+  ![intro-specialization](assets/intro-specialization.png)
+
+    

@@ -12,4 +12,4 @@
 
 See software walkthrough tool example in this image
 
-![software-walkthrough-tool](software-walkthrough-tool.png)
+![software-walkthrough-tool](/assets/software-walkthrough-tool.png)
