@@ -11,4 +11,5 @@
 * set of recommendations is the output - resolve ambiguities, improve product as a whole
 
 See software walkthrough tool example in this image
-![software-walkthrough-tool](assets/software-walkthrough-tool.png)
+
+![software-walkthrough-tool](software-walkthrough-tool.png)
