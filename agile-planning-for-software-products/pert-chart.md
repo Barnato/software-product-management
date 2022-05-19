@@ -8,7 +8,7 @@
 
 * Visual rep of a project - especially the critical path.
 
-![]()
+  ![pert-cpm](/assets/pert-cpm-chart.png)
 
 * Nodes are milestones - something happening - work product.
 
